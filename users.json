@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Heindrick",
+        "last_name": "Fullerton",
+        "email": "hfullerton0@printfriendly.com",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Colas",
+        "last_name": "Petto",
+        "email": "cpetto1@vistaprint.com",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Larisa",
+        "last_name": "Breadon",
+        "email": "lbreadon2@state.gov",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Philippine",
+        "last_name": "Joris",
+        "email": "pjoris3@deviantart.com",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Onfre",
+        "last_name": "Pennicard",
+        "email": "opennicard4@tuttocitta.it",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Trevor",
+        "last_name": "Geraudel",
+        "email": "tgeraudel5@dedecms.com",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Carine",
+        "last_name": "Landis",
+        "email": "clandis6@ftc.gov",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Kevyn",
+        "last_name": "McCunn",
+        "email": "kmccunn7@t.co",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Paulo",
+        "last_name": "Schankel",
+        "email": "pschankel8@php.net",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Robinet",
+        "last_name": "Baldi",
+        "email": "rbaldi9@godaddy.com",
+        "gender": "Female"
+    }
+]
